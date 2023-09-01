@@ -17,4 +17,4 @@
 
 ## :information_source: Attribution <!-- omit in toc -->
 
-This document is based on the [Web3 Foundation's delivery repo](https://github.com/w3f/Grant-Milestone-Delivery).
+This repo is based on the [Web3 Foundation's delivery repo](https://github.com/w3f/Grant-Milestone-Delivery).
