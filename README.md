@@ -15,6 +15,6 @@
    1. Evaluators can (and usually do) issue comments and request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
    2. Grants Evaluators will merge your pull request to accept the delivery.
 
-## :information_source: License <!-- omit in toc -->
+## :information_source: Attribution <!-- omit in toc -->
 
-[Apache License 2.0](LICENSE) © Web3 Foundation
+This document is based on the [Web3 Foundation's delivery repo](https://github.com/w3f/Grant-Milestone-Delivery).
