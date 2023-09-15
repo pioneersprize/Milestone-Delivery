@@ -6,7 +6,6 @@
 - **Status:** In Progress/Accepted/Rejected
 - **Application Document:** Please, provide a link to the merged contract (the `.md` file in the [applications](https://github.com/pioneersprize/Polkadot-Pioneers-Prize/tree/main/applications) directory). 
 - **Milestone:** Number
-- **Previously successfully merged evaluation:** Link
 
 | Number | Deliverable | Accepted | Link | Evaluation Notes |
 | ------ | ----------- | -------- | ---- |----------------- |
