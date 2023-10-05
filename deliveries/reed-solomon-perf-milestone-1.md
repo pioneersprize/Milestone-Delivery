@@ -13,7 +13,7 @@ A set of code changes that enables primarily `avx2` based `SIMD` acceleration an
 | Number | Deliverable | Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
 | 1. | SIMD perf | <https://github.com/drahnr/reed-solomon-novelpoly/pull/1> respectively <https://github.com/paritytech/reed-solomon-novelpoly/pull/10> | Due to a lack of permissions I had to target my own fork for the pipeline runs |
-| 2.  | CI pipeline | <https://ci.spearow.io/teams/main/pipelines/reed-solomon> |  |
+| 2.  | CI pipeline | <https://ci.fff.rs/teams/main/pipelines/reed-solomon> |  |
 
 **Additional Information**
 
