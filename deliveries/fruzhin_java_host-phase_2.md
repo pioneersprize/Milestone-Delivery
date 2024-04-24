@@ -158,4 +158,4 @@
 | Number | Deliverable | Link | Notes |
 | --- | --- | --- | --- |
 | 1. | Establish a community channel for support, questions and feedback | https://discord.gg/sSkWWHNm | … |
-| 2. | Create a demo showcasing the full node | https://www.youtube.com/watch?v=g_SNvUbp2p8 |  |
+| 2. | Create a demo showcasing the full node | https://youtu.be/-Q0Be5coP-A |
