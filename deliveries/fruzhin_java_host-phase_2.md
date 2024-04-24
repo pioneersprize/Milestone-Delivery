@@ -62,7 +62,7 @@
 | 2. | Process genesis hashes and replace the existing hard-coded ones | https://github.com/LimeChain/Fruzhin/blob/dev/src/main/java/com/limechain/constants/GenesisBlockHash.java | … |
 | 3. | Change substream identifiers to use genesis hash | https://github.com/LimeChain/Fruzhin/pull/283 | … |
 | 4. | Add child storage functionality | https://github.com/LimeChain/Fruzhin/tree/dev/src/main/java/com/limechain/trie | … |
-| 5. | Add child trie functionality | Invalid | We bundled the child trie and storage functionalities in the above milestone item |
+| 5. | Add child trie functionality | https://github.com/LimeChain/Fruzhin/tree/dev/src/main/java/com/limechain/trie	 | We bundled the child trie and storage functionalities in the above milestone item |
 | 6. | Add extrinsics validation | https://github.com/LimeChain/Fruzhin/blob/dev/src/main/java/com/limechain/sync/fullsync/FullSyncMachine.java#L107 | check_inherents call followed by a Core_execute_block |
 | 7. | Add configuration to start full node using either warp or full sync | https://github.com/LimeChain/Fruzhin/blob/dev/src/main/java/com/limechain/sync/SyncMode.java | … |
 
