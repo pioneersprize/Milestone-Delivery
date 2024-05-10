@@ -119,8 +119,8 @@
 
 | Number | Deliverable | Link | Notes | Accepted |
 | --- | --- | --- | --- | --- |
-| 1. | Establish a community channel for support, questions and feedback | https://discord.gg/sSkWWHNm | … |
-| 2. | Create a demo showcasing the full node | https://youtu.be/-Q0Be5coP-A |
+| 1. | Establish a community channel for support, questions and feedback | https://discord.gg/sSkWWHNm | … | <ul><li>[x] </li></ul>|
+| 2. | Create a demo showcasing the full node | https://youtu.be/-Q0Be5coP-A | <ul><li>[x] </li></ul>|
 
 
 
@@ -129,4 +129,5 @@
 The team has done a great job in developing  a full node, supporting both warp and full sync. Initial concerns raised on the client unable to fetch and load the runtime have been fixed. Another issue on sync abruptly ending on westend  also has been fixed. One issue still persists that the node gets stuck stuck at the last-but-one epoch when warp syncing, which is proposed to be resolved in Phase-3-Milestone-4-Task-8. I suggest concretely adding this as a Milestone. 
 I also suggest transferring Milestone-7 (Light Client & Full Node Support) to Phase-3 as these are not relevant without any user-base.
 Similarly, Milestone-11 (research on trie structure) can be transferred to Phase-3.
+
 Fruzhin feature-wise is in a state where it can be used as a light client. We encourage you to have a strong outreach campaign to spread the word and attract users. We can put you in touch with W3F communications team for any support. 
